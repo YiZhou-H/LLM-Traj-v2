@@ -123,3 +123,20 @@ training:
 2. **公式(2)**: 轨迹坐标映射 `(xt, yt) = A * fv + b`
 3. **公式(4)**: 轨迹文本化 `TS = F(S)`
 4. **公式(5)**: 提示构建 `Prompt = H ⊕ TS ⊕ C`
+
+5. 
+### Online Inference
+nuScence 
+
+<p align="center">
+  <img src="nuScene demo 1.gif" alt="Demo 1" width="45%">
+  <img src="nuScene demo 2.gif" alt="Demo 2" width="45%">
+</p>
+
+Waymo open
+
+*Note: We use the official 5 Hz sampling from Waymo for visualization, and will later update to a smoother 20 Hz version.*
+<p align="center">
+  <img src="./Waymo_12s.gif" alt="Waymo Demo" width="600"/>
+</p>
+
