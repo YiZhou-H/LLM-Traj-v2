@@ -1,0 +1,8 @@
+llm_model_path: dummy
+use_natural_language: false
+use_online_feedback: false
+use_dynamic_examples: false
+learning_rate: 5.0e-05
+history_length: 10
+future_length: 80
+trajectory_scale: 0.1
